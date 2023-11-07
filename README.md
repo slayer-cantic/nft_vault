@@ -1,16 +1,9 @@
-## 프로젝트 세팅
+## 프로젝트 설명
 
-### `$ yarn`
+- 출석용 nft 지갑 만들기 프로젝트 수행
 
-### `.env.example`에 `EOA, Pinata, KAS` API keys를 기입(`.example 삭제`)
 
-### (자신의 컨트랙트를 사용하려면) `/contract/CodestatesAttend.json` 파일을 `자신의 컨트랙트 ABI파일`로 변경해주세요.
 
-<br />
-
-## 클라이언트 실행
-
-### `$ yarn start`
 
 <br />
 
